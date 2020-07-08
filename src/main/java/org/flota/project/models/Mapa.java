@@ -26,13 +26,13 @@ public class Mapa implements IMapa , Cloneable {
     private double coordenadaXActual;
     private double coordenadaYActual;
     private String tipoMapa;
-    private float escala;
+    private double escala;
 
     // Llamando a la unica instancia de RegistroLog 
     private RegistroLog registro = RegistroLog.getInstance();
 
     // Se creo un constructor para la implementacion de Cloneable
-    public Mapa(Double coordenadaXInicial, Double coordenadaYInicial, Double coordenadaXActual, Double coordenadaYActual, String tipoMapa, float escala){
+    public Mapa(Double coordenadaXInicial, Double coordenadaYInicial, Double coordenadaXActual, Double coordenadaYActual, String tipoMapa, double escala){
         this.coordenadaXInicial = coordenadaXInicial;
         this.coordenadaYInicial = coordenadaYInicial;
         this.coordenadaXActual = coordenadaXActual;
@@ -194,7 +194,7 @@ public class Mapa implements IMapa , Cloneable {
 
 
     // Forma de Ramiro que funciona correctamente 
-    protected Object clone() throws CloneNotSupportedException {
+    public Object clone() throws CloneNotSupportedException {
         // registro.infoLog("Coordenada MAPA clonada correctamente");
         Mapa nuevo = new Mapa(this.coordenadaXInicial, this.coordenadaYInicial, this.coordenadaXActual, this.coordenadaYActual,this.tipoMapa,this.escala);
         return nuevo;

@@ -282,3 +282,21 @@
 2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Despues de copiar
 2020-07-07 19:39:08 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580861.21860488 Coordenada Y Actual: -8580861.21860488 p1: Ortofotomapa p2: 12000.0
 2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:48:06 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 19:48:55 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 19:52:15 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 19:52:15 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:00:02 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 20:00:02 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:00:47 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 20:00:47 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:00:47 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:02:36 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 20:02:36 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:02:36 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:02:36 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: 0.0 Coordenada inicila Y: 0.0 Coordenada X Actual: 152.3 Coordenada Y Actual: 152.3 p1: Geografica p2: 0.65
+2020-07-07 20:03:05 INFO  org.flota.project.RegistroLog:31 - Producto clonada correctamente
+2020-07-07 20:03:05 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:03:05 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: 0.0 Coordenada inicila Y: 0.0 Coordenada X Actual: 152.3 Coordenada Y Actual: 152.3 p1: Geografica p2: 0.65
+2020-07-07 20:03:05 INFO  org.flota.project.RegistroLog:31 - Se clono correctamente
+2020-07-07 20:03:05 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: 0.0 Coordenada inicila Y: 0.0 Coordenada X Actual: 152.3 Coordenada Y Actual: 152.3 p1: Geografica p2: 0.65
