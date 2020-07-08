@@ -51,7 +51,6 @@ public class Ventana extends Application {
 
 
 
-
         /* Version 1 Modificada con BorderPane */
 
         // create a JavaFX scene with a stack pane as the root node and add it to the scene
@@ -142,6 +141,8 @@ public class Ventana extends Application {
             @Override
             public void handle(ActionEvent event) {
                 try {
+                    registro.infoLog("Antes de Copiar");
+                    mapaBase.imprimeAtributosMapa();
                     muestraNuevaVentana();
                     registro.infoLog("Entre a otra ventana diferente");
 
@@ -159,32 +160,39 @@ public class Ventana extends Application {
 
 
     public void muestraNuevaVentana() throws CloneNotSupportedException {
+        
+        /* StackPane */
         Stage stage = new Stage();
         StackPane stackPane = new StackPane();
         Scene scene = new Scene(stackPane);
         stage.setScene(scene);
 
+        /* */
+
+
+        /* BorderPane 
+        Stage stage = new Stage();
+        BorderPane stackPane = new BorderPane();
+        Scene scene = new Scene(stackPane);
+        stage.setScene(scene);
+        /* */
+
+
         //  Clonacion de MapaBase VERSION ORIGINAL
 
-        // Mapa mapaBase2 = new Mapa(mapaBase.getCoordenadaXActual(),mapaBase.getCoordenadaYActual());
-        // Mapa mapaBase2 = (Mapa)mapaBase.clone();
-        // mapaBase2.imprimeCoordenadasActual();
-        // stackPane.getChildren().add(mapaBase2.getMapView());
 
-
-    
-
-        
 
 
         // Se creo un objeto para usar el metodo clone
 
         // Mapa m1 = new Mapa(20.3,30.5,66.6,78.9);
-        Mapa mapaBase3 = (Mapa) mapaBase.clone();
-        mapaBase3.imprimeCoordenadasActual();
+        Mapa mapaBase3 = (Mapa) mapaBase.copiar();
+        registro.infoLog("Despues de copiar");
+        // mapaBase3.imprimeCoordenadasActual();
         mapaBase3.imprimeAtributosMapa();
 
         stackPane.getChildren().add(mapaBase3.getMapView());
+        // stackPane.setCenter(mapaBase3.getMapView());
 
 
         stage.show();

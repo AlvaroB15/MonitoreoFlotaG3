@@ -109,3 +109,176 @@
 2020-07-07 18:39:44 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA clonada correctamente
 2020-07-07 18:39:44 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8581685.131105721, -1352371.156854891]
 2020-07-07 18:39:44 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8581685.131105721 Coordenada Y Actual: -8581685.131105721 p1: 0.0 p2: 0.0
+2020-07-07 18:56:50 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 18:56:50 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 18:56:51 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 18:56:58 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 18:57:05 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581088.231105112, -1352536.2568550594
+2020-07-07 18:57:05 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0600S 077.0852W Degrees, Minutes, Seconds: 12 03 36.0S 077 05 06.8W UTM: 18L 273008 8665949USNG: 18L TM 7300 6594
+2020-07-07 18:57:07 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA clonada correctamente
+2020-07-07 18:57:07 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8581088.231105112, -1352536.2568550594]
+2020-07-07 18:57:07 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8581088.231105112 Coordenada Y Actual: -8581088.231105112 p1: 0.0 p2: 0.0
+2020-07-07 18:57:33 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 18:57:33 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 18:57:34 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 18:57:40 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 18:57:41 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA copiada correctamente
+2020-07-07 18:57:41 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 18:57:41 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: 0.0 Coordenada Y Actual: 0.0 p1: 0.0 p2: 0.0
+2020-07-07 18:57:41 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 18:57:46 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580885.031104904, -1352199.7068547162
+2020-07-07 18:57:46 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0570S 077.0834W Degrees, Minutes, Seconds: 12 03 25.3S 077 05 00.2W UTM: 18L 273204 8666278USNG: 18L TM 7320 6627
+2020-07-07 18:57:48 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA copiada correctamente
+2020-07-07 18:57:48 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580885.031104904, -1352199.7068547162]
+2020-07-07 18:57:48 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580885.031104904 Coordenada Y Actual: -8580885.031104904 p1: 0.0 p2: 0.0
+2020-07-07 18:57:48 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 18:57:48 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 18:57:54 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 18:59:04 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 18:59:04 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 18:59:05 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 18:59:11 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 18:59:12 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581132.681105157, -1352225.1068547422
+2020-07-07 18:59:12 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0573S 077.0856W Degrees, Minutes, Seconds: 12 03 26.1S 077 05 08.3W UTM: 18L 272962 8666251USNG: 18L TM 7296 6625
+2020-07-07 18:59:13 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA clonada correctamente
+2020-07-07 18:59:13 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8581132.681105157, -1352225.1068547422]
+2020-07-07 18:59:13 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8581132.681105157 Coordenada Y Actual: -8581132.681105157 p1: 0.0 p2: 0.0
+2020-07-07 19:00:37 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:00:38 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:00:39 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:00:45 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:00:46 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580958.056104979, -1352231.4568547485
+2020-07-07 19:00:46 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0573S 077.0841W Degrees, Minutes, Seconds: 12 03 26.3S 077 05 02.6W UTM: 18L 273133 8666246USNG: 18L TM 7313 6624
+2020-07-07 19:00:49 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580958.056104979, -1352231.4568547485]
+2020-07-07 19:00:49 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580958.056104979 Coordenada Y Actual: -8580958.056104979 p1: 0.0 p2: 0.0
+2020-07-07 19:01:33 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:01:33 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:01:34 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:01:36 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:01:36 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: 0.0 Coordenada Y Actual: 0.0 p1: 0.0 p2: 0.0
+2020-07-07 19:01:36 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:04:31 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:04:31 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:04:32 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:04:39 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:04:40 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580885.031104904, -1352231.4568547485
+2020-07-07 19:04:40 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0573S 077.0834W Degrees, Minutes, Seconds: 12 03 26.3S 077 05 00.2W UTM: 18L 273204 8666247USNG: 18L TM 7320 6624
+2020-07-07 19:04:41 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580885.031104904, -1352231.4568547485]
+2020-07-07 19:04:41 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580885.031104904 Coordenada Y Actual: -8580885.031104904 p1: 0.0 p2: 0.0
+2020-07-07 19:04:41 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:04:49 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580885.031104904, -1352231.4568547485]
+2020-07-07 19:04:49 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580885.031104904 Coordenada Y Actual: -8580885.031104904 p1: 0.0 p2: 0.0
+2020-07-07 19:04:49 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:04:50 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581191.418605216, -1352104.456854619
+2020-07-07 19:04:50 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0562S 077.0862W Degrees, Minutes, Seconds: 12 03 22.3S 077 05 10.2W UTM: 18L 272904 8666368USNG: 18L TM 7290 6636
+2020-07-07 19:05:15 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:05:15 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:05:16 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:05:22 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:05:23 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580913.606104933, -1352237.8068547552
+2020-07-07 19:05:23 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0574S 077.0837W Degrees, Minutes, Seconds: 12 03 26.5S 077 05 01.2W UTM: 18L 273176 8666241USNG: 18L TM 7317 6624
+2020-07-07 19:05:24 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA CLONADA correctamente
+2020-07-07 19:05:24 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580913.606104933, -1352237.8068547552]
+2020-07-07 19:05:24 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580913.606104933 Coordenada Y Actual: -8580913.606104933 p1: 0.0 p2: 0.0
+2020-07-07 19:05:24 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:05:57 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:05:57 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:05:58 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:06:04 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:06:04 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581119.981105143, -1352298.1318548166
+2020-07-07 19:06:04 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0579S 077.0855W Degrees, Minutes, Seconds: 12 03 28.4S 077 05 07.8W UTM: 18L 272975 8666180USNG: 18L TM 7297 6618
+2020-07-07 19:06:05 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA CLONADA correctamente
+2020-07-07 19:06:05 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8581119.981105143, -1352298.1318548166]
+2020-07-07 19:06:05 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8581119.981105143 Coordenada Y Actual: -8581119.981105143 p1: 0.0 p2: 0.0
+2020-07-07 19:06:05 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:08:50 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:08:50 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:08:51 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:08:57 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:09:00 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580859.63110488, -1351812.356854321
+2020-07-07 19:09:00 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0536S 077.0832W Degrees, Minutes, Seconds: 12 03 13.1S 077 04 59.4W UTM: 18L 273226 8666654USNG: 18L TM 7322 6665
+2020-07-07 19:09:01 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA CLONADA correctamente
+2020-07-07 19:09:01 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580859.63110488, -1351812.356854321]
+2020-07-07 19:09:01 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580859.63110488 Coordenada Y Actual: -8580859.63110488 p1: 0.0 p2: 0.0
+2020-07-07 19:09:01 ERROR org.flota.project.RegistroLog:35 - AQYiS
+2020-07-07 19:09:01 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:10:21 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:10:21 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:10:22 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:10:28 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:10:30 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581983.581106026, -1352182.2443546983
+2020-07-07 19:10:30 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0569S 077.0933W Degrees, Minutes, Seconds: 12 03 24.8S 077 05 35.8W UTM: 18L 272129 8666287USNG: 18L TM 7212 6628
+2020-07-07 19:11:03 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:11:03 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:11:04 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:11:10 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:11:12 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581104.106105128, -1352379.0943548991
+2020-07-07 19:11:12 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0586S 077.0854W Degrees, Minutes, Seconds: 12 03 31.0S 077 05 07.3W UTM: 18L 272991 8666102USNG: 18L TM 7299 6610
+2020-07-07 19:11:14 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8581104.106105128, -1352379.0943548991]
+2020-07-07 19:11:14 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8581104.106105128 Coordenada Y Actual: -8581104.106105128 p1: 0.0 p2: 0.0
+2020-07-07 19:11:14 ERROR org.flota.project.RegistroLog:35 - AQYiS
+2020-07-07 19:25:26 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:25:26 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:25:27 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:25:33 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:26:13 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:26:13 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:26:14 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:26:20 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:30:02 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:30:02 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:30:03 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:30:09 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:30:11 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580891.38110491, -1352247.3318547648
+2020-07-07 19:30:11 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0575S 077.0835W Degrees, Minutes, Seconds: 12 03 26.8S 077 05 00.5W UTM: 18L 273198 8666231USNG: 18L TM 7319 6623
+2020-07-07 19:30:12 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580891.38110491, -1352247.3318547648]
+2020-07-07 19:30:12 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580891.38110491 Coordenada Y Actual: -8580891.38110491 p1: Ortofotomapa p2: 12000.0
+2020-07-07 19:30:12 ERROR org.flota.project.RegistroLog:35 - AQYiS
+2020-07-07 19:30:42 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:30:42 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:30:44 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:30:50 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:30:51 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8581275.556105303, -1352433.0693549542
+2020-07-07 19:30:51 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0591S 077.0869W Degrees, Minutes, Seconds: 12 03 32.7S 077 05 12.9W UTM: 18L 272824 8666048USNG: 18L TM 7282 6604
+2020-07-07 19:30:53 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8581275.556105303, -1352433.0693549542]
+2020-07-07 19:30:53 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8581275.556105303 Coordenada Y Actual: -8581275.556105303 p1: Ortofotomapa p2: 12000.0
+2020-07-07 19:30:53 ERROR org.flota.project.RegistroLog:35 - AQYiS
+2020-07-07 19:32:14 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:32:14 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:32:15 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:32:21 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:32:23 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580859.631104877, -1352256.8568547745
+2020-07-07 19:32:23 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0575S 077.0832W Degrees, Minutes, Seconds: 12 03 27.1S 077 04 59.4W UTM: 18L 273229 8666222USNG: 18L TM 7322 6622
+2020-07-07 19:33:04 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:33:04 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:33:05 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:33:11 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:33:12 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580924.718604945, -1352326.7068548459
+2020-07-07 19:33:12 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0581S 077.0838W Degrees, Minutes, Seconds: 12 03 29.3S 077 05 01.5W UTM: 18L 273166 8666154USNG: 18L TM 7316 6615
+2020-07-07 19:33:13 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA copiada correctamente
+2020-07-07 19:33:13 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [-8580924.718604945, -1352326.7068548459]
+2020-07-07 19:33:13 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580924.718604945 Coordenada Y Actual: -8580924.718604945 p1: Ortofotomapa p2: 12000.0
+2020-07-07 19:33:13 ERROR org.flota.project.RegistroLog:35 - AQYiS
+2020-07-07 19:33:13 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:37:21 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:37:21 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:37:22 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:37:28 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:37:30 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580869.156104889, -1352242.56935476
+2020-07-07 19:37:30 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0574S 077.0833W Degrees, Minutes, Seconds: 12 03 26.7S 077 04 59.7W UTM: 18L 273220 8666236USNG: 18L TM 7322 6623
+2020-07-07 19:37:31 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA copiada correctamente
+2020-07-07 19:37:31 INFO  org.flota.project.RegistroLog:31 - Despues de copiar
+2020-07-07 19:37:31 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580869.156104889 Coordenada Y Actual: -8580869.156104889 p1: Ortofotomapa p2: 12000.0
+2020-07-07 19:37:31 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente
+2020-07-07 19:38:59 INFO  org.flota.project.RegistroLog:31 - Iniciando el servidor
+2020-07-07 19:38:59 DEBUG org.flota.project.RegistroLog:39 - Se pudo abrir la ventana.
+2020-07-07 19:39:00 DEBUG org.flota.project.RegistroLog:39 - Coordenadas actual: [0.0, 0.0]
+2020-07-07 19:39:06 INFO  org.flota.project.RegistroLog:31 - Acercamiento completado
+2020-07-07 19:39:08 DEBUG org.flota.project.RegistroLog:39 - Coordenadas: -8580861.21860488, -1352225.1068547422
+2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Decimal Degrees: 12.0573S 077.0832W Degrees, Minutes, Seconds: 12 03 26.1S 077 04 59.5W UTM: 18L 273228 8666253USNG: 18L TM 7322 6625
+2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Antes de Copiar
+2020-07-07 19:39:08 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580861.21860488 Coordenada Y Actual: -8580861.21860488 p1: Ortofotomapa p2: 12000.0
+2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Coordenada MAPA copiada correctamente
+2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Despues de copiar
+2020-07-07 19:39:08 DEBUG org.flota.project.RegistroLog:39 - Coordenada inicial X: -12.056 Coordenada inicila Y: -77.0844 Coordenada X Actual: -8580861.21860488 Coordenada Y Actual: -8580861.21860488 p1: Ortofotomapa p2: 12000.0
+2020-07-07 19:39:08 INFO  org.flota.project.RegistroLog:31 - Entre a otra ventana diferente

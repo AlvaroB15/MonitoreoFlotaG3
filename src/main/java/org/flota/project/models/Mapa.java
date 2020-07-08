@@ -25,19 +25,20 @@ public class Mapa implements IMapa , Cloneable {
     private double coordenadaYInicial;
     private double coordenadaXActual;
     private double coordenadaYActual;
-    private double p1;
-    private double p2;
+    private String tipoMapa;
+    private float escala;
 
     // Llamando a la unica instancia de RegistroLog 
     private RegistroLog registro = RegistroLog.getInstance();
 
     // Se creo un constructor para la implementacion de Cloneable
-    public Mapa(Double coordenadaXInicial, Double coordenadaYInicial, Double coordenadaXActual, Double coordenadaYActual){
+    public Mapa(Double coordenadaXInicial, Double coordenadaYInicial, Double coordenadaXActual, Double coordenadaYActual, String tipoMapa, float escala){
         this.coordenadaXInicial = coordenadaXInicial;
         this.coordenadaYInicial = coordenadaYInicial;
         this.coordenadaXActual = coordenadaXActual;
         this.coordenadaYActual = coordenadaYActual;
-
+        this.tipoMapa  = tipoMapa;
+        this.escala = escala;
     }
 
 
@@ -58,6 +59,9 @@ public class Mapa implements IMapa , Cloneable {
         this.coordenadaXInicial = -12.0560;
         this.coordenadaYInicial = -77.0844;
         Viewpoint viewpoint = new Viewpoint(this.coordenadaXInicial, this.coordenadaYInicial, 12000);   // UNMSM
+        // 12000
+        this.tipoMapa = "Ortofotomapa";
+        this.escala = 12000;
 
         // take 5 seconds to move to viewpoint
         final ListenableFuture<Boolean> viewpointSetFuture = mapView.setViewpointAsync(viewpoint, 5);
@@ -147,14 +151,8 @@ public class Mapa implements IMapa , Cloneable {
 
     public void imprimeAtributosMapa(){
 
-        registro.debugLog("Coordenada inicial X: "+this.coordenadaXInicial+ " Coordenada inicila Y: "+this.coordenadaYInicial+" Coordenada X Actual: "+this.coordenadaXActual+" Coordenada Y Actual: "+this.coordenadaXActual+ " p1: "+this.p1+" p2: "+this.p2);
+        registro.debugLog("Coordenada inicial X: "+this.coordenadaXInicial+ " Coordenada inicila Y: "+this.coordenadaYInicial+" Coordenada X Actual: "+this.coordenadaXActual+" Coordenada Y Actual: "+this.coordenadaXActual+ " p1: "+this.tipoMapa+" p2: "+this.escala);
     }
-
-
-
-
-
-
 
     
     @Override
@@ -166,8 +164,8 @@ public class Mapa implements IMapa , Cloneable {
         m.coordenadaYInicial = this.coordenadaYInicial;
         m.coordenadaXActual = this.coordenadaXActual;
         m.coordenadaYActual = this.coordenadaYActual;
-        m.p1 = this.p1;
-        m.p2 = this.p2;
+        m.tipoMapa = this.tipoMapa;
+        m.escala = this.escala;
 
         registro.infoLog("Coordenada MAPA copiada correctamente");
 
@@ -197,9 +195,8 @@ public class Mapa implements IMapa , Cloneable {
 
     // Forma de Ramiro que funciona correctamente 
     protected Object clone() throws CloneNotSupportedException {
-        registro.infoLog("Coordenada MAPA clonada correctamente");
-        Mapa nuevo = new Mapa(this.coordenadaXInicial, this.coordenadaYInicial, this.coordenadaXActual, this.coordenadaYActual);
-   
+        // registro.infoLog("Coordenada MAPA clonada correctamente");
+        Mapa nuevo = new Mapa(this.coordenadaXInicial, this.coordenadaYInicial, this.coordenadaXActual, this.coordenadaYActual,this.tipoMapa,this.escala);
         return nuevo;
     }
 
